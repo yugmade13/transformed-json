@@ -7,31 +7,31 @@
       "name": "building.create"
     },
     {
-      "id": 14,
+      "id": 16,
       "name": "building.delete"
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "building.edit"
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "building.index"
     },
     {
-      "id": 14,
+      "id": 33,
       "name": "dashboard.index"
     },
     {
-      "id": 14,
+      "id": 18,
       "name": "energy.create"
     },
     {
-      "id": 14,
+      "id": 20,
       "name": "energy.delete"
     },
     {
-      "id": 14,
+      "id": 19,
       "name": "energy.edit"
     }
   ]
