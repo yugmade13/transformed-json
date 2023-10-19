@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "msg": "oke",
+  "data": [
+    {
+      "id": 14,
+      "name": "building.create"
+    },
+    {
+      "id": 14,
+      "name": "building.delete"
+    },
+    {
+      "id": 14,
+      "name": "building.edit"
+    },
+    {
+      "id": 14,
+      "name": "building.index"
+    },
+    {
+      "id": 14,
+      "name": "dashboard.index"
+    },
+    {
+      "id": 14,
+      "name": "energy.create"
+    },
+    {
+      "id": 14,
+      "name": "energy.delete"
+    },
+    {
+      "id": 14,
+      "name": "energy.edit"
+    }
+  ]
+}
